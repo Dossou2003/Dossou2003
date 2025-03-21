@@ -14,7 +14,7 @@
   <a href="mailto:alexdahoui@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/ArmelDahoui" target="_blank">
+  <a href="https://github.com/Dossou2003" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -57,19 +57,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ArmelDahoui&theme=radical&hide_border=true" width="45%" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArmelDahoui&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Dossou2003&theme=radical&hide_border=true" width="45%" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dossou2003&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" />
 </p>
 
 <p align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmelDahoui&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=comDossou2003pact&theme=radical&hide_border=true&langs_count=8" width="40%" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ArmelDahoui&theme=radical&no-frame=true&row=1" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dossou2003&theme=radical&no-frame=true&row=1" alt="GitHub Trophies">
 </p>
 
 ---
