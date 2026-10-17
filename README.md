@@ -66,7 +66,22 @@ back-office — built with Django, Next.js and React Native. Launching in 2026.
 <p align="center"><sub>Generated every day by a GitHub Action, private repositories included.</sub></p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alex200329/Alex200329/sortie/dossou-metrics.svg" alt="GitHub metrics" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Alex200329/Alex200329/sortie/dossou-stats.svg" alt="GitHub stats" width="49%"/>
+  <img src="https://raw.githubusercontent.com/Alex200329/Alex200329/sortie/dossou-serie.svg" alt="Contribution streak" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alex200329/Alex200329/sortie/dossou-langages.svg" alt="Most used languages" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alex200329/Alex200329/sortie/dossou-contributions.svg" alt="Contributions in the last year" width="100%"/>
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alex200329/Alex200329/sortie/dossou-trophees.svg" alt="GitHub trophies" width="100%"/>
 </div>
 
 <picture>
