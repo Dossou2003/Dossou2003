@@ -66,12 +66,12 @@ back-office — built with Django, Next.js and React Native. Launching in 2026.
 <p align="center"><sub>Generated every day by a GitHub Action, private repositories included.</sub></p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dossou2003/Dossou2003/output/metrics.svg" alt="GitHub metrics" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Alex200329/Alex200329/sortie/dossou-metrics.svg" alt="GitHub metrics" width="100%"/>
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dossou2003/Dossou2003/output/snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Dossou2003/Dossou2003/output/snake-light.svg" alt="Contribution snake" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex200329/Alex200329/sortie/dossou-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Alex200329/Alex200329/sortie/dossou-snake-light.svg" alt="Contribution snake" width="100%"/>
 </picture>
 
 <div align="center">
